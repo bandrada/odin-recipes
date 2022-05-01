@@ -1,10 +1,9 @@
 # odin-recipes
 Demonstrate HTML knowledge with fun recipes
 
-# Tools Used
-- HTML
-- PNGs
-- Creativity
+# Skills Demonstrated
+- Version control with git
+- HTML tags and links
 
 # Instructions
 ## Iteration 1: Initial Structure
